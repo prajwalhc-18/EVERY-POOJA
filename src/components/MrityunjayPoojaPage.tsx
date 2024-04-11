@@ -1,4 +1,4 @@
-import React from "react"; import "./PoojaPage.css"; function
+import "./PoojaPage.css"; function
 MrityunjayPoojaPage() { return (
 <div className="container">
   <section className="heading">
